@@ -1,49 +1,49 @@
-Sr No,Graduate Certificate,Course Name,Course Code,Start Date,End Date,Duration (Days),Room,Teacher,Run
-1,Intelligent Robotic Systems,Robotic Systems,IROb-01,04 Jan 2027,08 Jan 2027,5,Integration,SP,Run 2
-2,Intelligent Reasoning Systems,Cognitive Systems,IRS-02,18 Jan 2027,20 Jan 2027,3,Frontier,AK,Run 2
-3,Practical Language Processing,Conversational UIs,PLP-03,25 Jan 2027,28 Jan 2027,4,Visionary,ET,Run 2
-4,Pattern Recognition Systems,Pattern Recognition and Machine Learning Systems,PRS-02,01 Feb 2027,05 Feb 2027,5,Blue Ocean,CK,Run 2
-5,Intelligent Robotic Systems,Human-Robot System Engineering,IROb-03,08 Feb 2027,11 Feb 2027,4,Horizon,AC,Run 2
-6,Architecting AI Systems,Explainable and Responsible Artificial Intelligence,AAS-01,15 Feb 2027,17 Feb 2027,3,Nexus,DC,Run 2
-7,Intelligent Reasoning Systems,Reasoning Systems,IRS-01,01 Mar 2027,05 Mar 2027,5,Catalyst,SW,Run 2
-8,Practical Language Processing,Text Analytics,PLP-04,08 Mar 2027,10 Mar 2027,3,Innovation,KL,Run 1
-9,Intelligent Financial Risk Management,Credit Risk Modelling and Analytics,IFR-03,29 Mar 2027,01 Apr 2027,4,Integrity,SP,Run 2
-10,Architecting AI Systems,Explainable and Responsible Artificial Intelligence,AAS-01,05 Apr 2027,07 Apr 2027,3,Board Room,AK,Run 1
-11,Intelligent Sensing Systems,Spatial Reasoning from Sensor Data,ISS-02,12 Apr 2027,14 Apr 2027,3,Innovation,AC,Run 1
-12,Intelligent Reasoning Systems,Reasoning Systems,IRS-01,26 Apr 2027,30 Apr 2027,5,Visionary,KL,Run 1
-13,Intelligent Sensing Systems,Real Time Audio-Visual Sensing and Sense Making,ISS-03,17 May 2027,20 May 2027,4,Blue Ocean,SW,Run 1
-14,Practical Language Processing,Conversational UIs,PLP-03,24 May 2027,27 May 2027,4,Catalyst,DC,Run 1
-15,Pattern Recognition Systems,Intelligent Sensing and Sense Making,PRS-01,31 May 2027,03 Jun 2027,4,Board Room,CK,Run 2
-16,Architecting AI Systems,Architecting Agentic AI Solutions,AAS-03,07 Jun 2027,10 Jun 2027,4,Integration,ET,Run 1
-17,Intelligent Reasoning Systems,Cognitive Systems,IRS-02,21 Jun 2027,23 Jun 2027,3,Frontier,AC,Run 1
-18,Pattern Recognition Systems,Problem Solving using Pattern Recognition,PRS-03,28 Jun 2027,02 Jul 2027,5,Horizon,ET,Run 1
-19,Intelligent Financial Risk Management,Explainable & Responsible AI for Finance,IFR-02,05 Jul 2027,07 Jul 2027,3,Nexus,CK,Run 2
-20,Architecting AI Systems,AI and Cybersecurity,AAS-02,12 Jul 2027,14 Jul 2027,3,Integrity,DC,Run 1
-21,Intelligent Reasoning Systems,Machine Reasoning,IRS-03,19 Jul 2027,22 Jul 2027,4,Integrity,AK,Run 1
-22,Practical Language Processing,New Media and Sentiment Mining,PLP-02,02 Aug 2027,04 Aug 2027,3,Integration,SW,Run 2
-23,Intelligent Sensing Systems,Spatial Reasoning from Sensor Data,ISS-02,23 Aug 2027,25 Aug 2027,3,Board Room,KL,Run 2
-24,Intelligent Financial Risk Management,Advanced Machine Learning for Financial Services,IFR-01,30 Aug 2027,02 Sep 2027,4,Innovation,SP,Run 1
-25,Architecting AI Systems,AI and Cybersecurity,AAS-02,06 Sep 2027,08 Sep 2027,3,Horizon,AK,Run 2
-26,Intelligent Financial Risk Management,Credit Risk Modelling and Analytics,IFR-03,20 Sep 2027,23 Sep 2027,4,Blue Ocean,CK,Run 1
-27,Architecting AI Systems,Deploying and Operating AI Solutions,AAS-04,04 Oct 2027,06 Oct 2027,3,Visionary,AC,Run 2
-28,Pattern Recognition Systems,Intelligent Sensing and Sense Making,PRS-01,11 Oct 2027,14 Oct 2027,4,Frontier,DC,Run 1
-29,Intelligent Sensing Systems,Vision Systems,ISS-01,01 Nov 2027,05 Nov 2027,5,Catalyst,SW,Run 1
-30,Intelligent Sensing Systems,Vision Systems,ISS-01,08 Nov 2027,12 Nov 2027,5,Nexus,ET,Run 2
-31,Intelligent Sensing Systems,Real Time Audio-Visual Sensing and Sense Making,ISS-03,15 Nov 2027,18 Nov 2027,4,Visionary,KL,Run 2
-32,Practical Language Processing,New Media and Sentiment Mining,PLP-02,22 Nov 2027,24 Nov 2027,3,Integration,SP,Run 1
-33,Architecting AI Systems,Architecting Agentic AI Solutions,AAS-03,06 Dec 2027,09 Dec 2027,4,Innovation,KL,Run 2
-34,Practical Language Processing,Text Analytics,PLP-04,03 Jan 2028,05 Jan 2028,3,Catalyst,SP,Run 2
-35,Intelligent Financial Risk Management,Alternative Data for Fintech Innovation,IFR-04,17 Jan 2028,19 Jan 2028,3,Frontier,ET,Run 2
-36,Intelligent Financial Risk Management,Explainable & Responsible AI for Finance,IFR-02,31 Jan 2028,02 Feb 2028,3,Blue Ocean,AK,Run 1
-37,Intelligent Financial Risk Management,Advanced Machine Learning for Financial Services,IFR-01,14 Feb 2028,17 Feb 2028,4,Integrity,CK,Run 2
-38,Architecting AI Systems,Deploying and Operating AI Solutions,AAS-04,21 Feb 2028,23 Feb 2028,3,Nexus,DC,Run 1
-39,Intelligent Robotic Systems,Human-Robot System Engineering,IROb-03,28 Feb 2028,02 Mar 2028,4,Horizon,SW,Run 1
-40,Intelligent Reasoning Systems,Machine Reasoning,IRS-03,13 Mar 2028,16 Mar 2028,4,Board Room,AC,Run 2
-41,Pattern Recognition Systems,Pattern Recognition and Machine Learning Systems,PRS-02,20 Mar 2028,24 Mar 2028,5,Integration,DC,Run 1
-42,Intelligent Robotic Systems,Autonomous Robots and Vehicles,IROb-02,27 Mar 2028,31 Mar 2028,5,Catalyst,AK,Run 2
-43,Intelligent Robotic Systems,Autonomous Robots and Vehicles,IROb-02,17 Apr 2028,21 Apr 2028,5,Nexus,CK,Run 1
-44,Pattern Recognition Systems,Problem Solving using Pattern Recognition,PRS-03,01 May 2028,05 May 2028,5,Frontier,KL,Run 2
-45,Intelligent Financial Risk Management,Alternative Data for Fintech Innovation,IFR-04,08 May 2028,10 May 2028,3,Integrity,AC,Run 1
-46,Intelligent Robotic Systems,Robotic Systems,IROb-01,22 May 2028,26 May 2028,5,Horizon,ET,Run 1
-47,Practical Language Processing,Text Processing using Machine Learning,PLP-01,29 May 2028,01 Jun 2028,4,Visionary,SW,Run 1
-48,Practical Language Processing,Text Processing using Machine Learning,PLP-01,19 Jun 2028,22 Jun 2028,4,Blue Ocean,SP,Run 2
+﻿Sr No,Graduate Certificate,Course Name,Course Code,Start Date,End Date,Duration (Days),Room,Teacher,Run
+1,Intelligent Reasoning Systems,Reasoning Systems,IRS-01,04 Jan 2027,08 Jan 2027,5,Integration,AK,Run 1
+2,Intelligent Reasoning Systems,Cognitive Systems,IRS-02,18 Jan 2027,20 Jan 2027,3,Integrity,KL,Run 1
+3,Practical Language Processing,Text Analytics,PLP-04,25 Jan 2027,27 Jan 2027,3,Visionary,SW,Run 2
+4,Intelligent Reasoning Systems,Machine Reasoning,IRS-03,01 Feb 2027,04 Feb 2027,4,Frontier,DC,Run 1
+5,Intelligent Financial Risk Management,Advanced Machine Learning for Financial Services,IFR-01,08 Feb 2027,11 Feb 2027,4,Integration,AK,Run 2
+6,Pattern Recognition Systems,Intelligent Sensing and Sense Making,PRS-01,15 Feb 2027,18 Feb 2027,4,Blue Ocean,ET,Run 1
+7,Intelligent Financial Risk Management,Explainable & Responsible AI for Finance,IFR-02,22 Feb 2027,24 Feb 2027,3,Integrity,KL,Run 2
+8,Pattern Recognition Systems,Pattern Recognition and Machine Learning Systems,PRS-02,01 Mar 2027,05 Mar 2027,5,Board Room,CK,Run 1
+9,Intelligent Financial Risk Management,Credit Risk Modelling and Analytics,IFR-03,08 Mar 2027,11 Mar 2027,4,Frontier,DC,Run 2
+10,Pattern Recognition Systems,Problem Solving using Pattern Recognition,PRS-03,15 Mar 2027,19 Mar 2027,5,Innovation,SP,Run 1
+11,Intelligent Financial Risk Management,Alternative Data for Fintech Innovation,IFR-04,22 Mar 2027,24 Mar 2027,3,Blue Ocean,ET,Run 2
+12,Intelligent Robotic Systems,Robotic Systems,IROb-01,29 Mar 2027,02 Apr 2027,5,Horizon,AC,Run 1
+13,Architecting AI Systems,Explainable and Responsible Artificial Intelligence,AAS-01,05 Apr 2027,07 Apr 2027,3,Board Room,CK,Run 2
+14,Intelligent Robotic Systems,Autonomous Robots and Vehicles,IROb-02,12 Apr 2027,16 Apr 2027,5,Nexus,SW,Run 1
+15,Architecting AI Systems,AI and Cybersecurity,AAS-02,19 Apr 2027,21 Apr 2027,3,Innovation,SP,Run 2
+16,Intelligent Robotic Systems,Human-Robot System Engineering,IROb-03,26 Apr 2027,29 Apr 2027,4,Catalyst,AK,Run 1
+17,Architecting AI Systems,Architecting Agentic AI Solutions,AAS-03,03 May 2027,06 May 2027,4,Horizon,AC,Run 2
+18,Intelligent Sensing Systems,Vision Systems,ISS-01,10 May 2027,14 May 2027,5,Visionary,KL,Run 1
+19,Architecting AI Systems,Deploying and Operating AI Solutions,AAS-04,17 May 2027,19 May 2027,3,Nexus,SW,Run 2
+20,Intelligent Sensing Systems,Spatial Reasoning from Sensor Data,ISS-02,24 May 2027,26 May 2027,3,Integration,DC,Run 1
+21,Intelligent Sensing Systems,Real Time Audio-Visual Sensing and Sense Making,ISS-03,07 Jun 2027,10 Jun 2027,4,Integrity,ET,Run 1
+22,Practical Language Processing,Text Processing using Machine Learning,PLP-01,21 Jun 2027,24 Jun 2027,4,Frontier,CK,Run 1
+23,Practical Language Processing,New Media and Sentiment Mining,PLP-02,05 Jul 2027,07 Jul 2027,3,Blue Ocean,SP,Run 1
+24,Practical Language Processing,Conversational UIs,PLP-03,19 Jul 2027,22 Jul 2027,4,Board Room,AC,Run 1
+25,Practical Language Processing,Text Analytics,PLP-04,02 Aug 2027,04 Aug 2027,3,Innovation,SW,Run 1
+26,Intelligent Financial Risk Management,Advanced Machine Learning for Financial Services,IFR-01,16 Aug 2027,19 Aug 2027,4,Horizon,AK,Run 1
+27,Intelligent Financial Risk Management,Explainable & Responsible AI for Finance,IFR-02,30 Aug 2027,01 Sep 2027,3,Nexus,KL,Run 1
+28,Intelligent Financial Risk Management,Credit Risk Modelling and Analytics,IFR-03,13 Sep 2027,16 Sep 2027,4,Catalyst,DC,Run 1
+29,Intelligent Financial Risk Management,Alternative Data for Fintech Innovation,IFR-04,27 Sep 2027,29 Sep 2027,3,Visionary,ET,Run 1
+30,Architecting AI Systems,Explainable and Responsible Artificial Intelligence,AAS-01,11 Oct 2027,13 Oct 2027,3,Integration,CK,Run 1
+31,Architecting AI Systems,AI and Cybersecurity,AAS-02,25 Oct 2027,27 Oct 2027,3,Integrity,SP,Run 1
+32,Architecting AI Systems,Architecting Agentic AI Solutions,AAS-03,08 Nov 2027,11 Nov 2027,4,Frontier,AC,Run 1
+33,Architecting AI Systems,Deploying and Operating AI Solutions,AAS-04,22 Nov 2027,24 Nov 2027,3,Blue Ocean,SW,Run 1
+34,Intelligent Reasoning Systems,Reasoning Systems,IRS-01,06 Dec 2027,10 Dec 2027,5,Board Room,AK,Run 2
+35,Intelligent Reasoning Systems,Cognitive Systems,IRS-02,20 Dec 2027,22 Dec 2027,3,Innovation,KL,Run 2
+36,Intelligent Reasoning Systems,Machine Reasoning,IRS-03,03 Jan 2028,06 Jan 2028,4,Horizon,DC,Run 2
+37,Pattern Recognition Systems,Intelligent Sensing and Sense Making,PRS-01,17 Jan 2028,20 Jan 2028,4,Nexus,ET,Run 2
+38,Pattern Recognition Systems,Pattern Recognition and Machine Learning Systems,PRS-02,31 Jan 2028,04 Feb 2028,5,Catalyst,CK,Run 2
+39,Pattern Recognition Systems,Problem Solving using Pattern Recognition,PRS-03,14 Feb 2028,18 Feb 2028,5,Visionary,SP,Run 2
+40,Intelligent Robotic Systems,Robotic Systems,IROb-01,28 Feb 2028,03 Mar 2028,5,Integration,AC,Run 2
+41,Intelligent Robotic Systems,Autonomous Robots and Vehicles,IROb-02,13 Mar 2028,17 Mar 2028,5,Integrity,SW,Run 2
+42,Intelligent Robotic Systems,Human-Robot System Engineering,IROb-03,27 Mar 2028,30 Mar 2028,4,Frontier,AK,Run 2
+43,Intelligent Sensing Systems,Vision Systems,ISS-01,10 Apr 2028,14 Apr 2028,5,Blue Ocean,KL,Run 2
+44,Intelligent Sensing Systems,Spatial Reasoning from Sensor Data,ISS-02,24 Apr 2028,26 Apr 2028,3,Board Room,DC,Run 2
+45,Intelligent Sensing Systems,Real Time Audio-Visual Sensing and Sense Making,ISS-03,08 May 2028,11 May 2028,4,Innovation,ET,Run 2
+46,Practical Language Processing,Text Processing using Machine Learning,PLP-01,22 May 2028,25 May 2028,4,Horizon,CK,Run 2
+47,Practical Language Processing,New Media and Sentiment Mining,PLP-02,05 Jun 2028,07 Jun 2028,3,Nexus,SP,Run 2
+48,Practical Language Processing,Conversational UIs,PLP-03,19 Jun 2028,22 Jun 2028,4,Catalyst,AC,Run 2
