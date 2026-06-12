@@ -1,0 +1,95 @@
+Changes Report for Instructor: AK
+Generated: 2026-06-12 08:47:38 UTC
+Source: https://github.com/kingofpings/public_docs/blob/main/AI_Course_Timetable.csv
+================================================================================
+
+SUMMARY
+-------
+AK's schedule has been SIGNIFICANTLY REVISED.
+- 9 courses previously assigned to AK have been reassigned to other instructors.
+- 6 new courses have been newly assigned to AK.
+
+================================================================================
+COURSES REMOVED FROM AK (Reassigned to Other Instructors)
+================================================================================
+
+1. AI and Cybersecurity (AAS-02) - Run 2
+   Previously: Start 18 Oct 2027 | Room: Horizon | Teacher: AK
+   Now assigned to SP: Start 19 Apr 2027 | Room: Innovation
+
+2. Pattern Recognition and Machine Learning Systems (PRS-02) - Run 2
+   Previously: Start 12 Apr 2027 | Room: Integration | Teacher: AK
+   Now assigned to CK: Start 31 Jan 2028 | Room: Catalyst
+
+3. Explainable and Responsible Artificial Intelligence (AAS-01) - Run 2
+   Previously: Start 07 Jun 2027 | Room: Frontier | Teacher: AK
+   Now assigned to CK: Start 05 Apr 2027 | Room: Board Room
+
+4. Real Time Audio-Visual Sensing and Sense Making (ISS-03) - Run 1
+   Previously: Start 05 Jul 2027 | Room: Visionary | Teacher: AK
+   Now assigned to ET: Start 07 Jun 2027 | Room: Integrity
+
+5. New Media and Sentiment Mining (PLP-02) - Run 2
+   Previously: Start 26 Jul 2027 | Room: Nexus | Teacher: AK
+   Now assigned to SP: Start 05 Jun 2028 | Room: Nexus
+
+6. Architecting Agentic AI Solutions (AAS-03) - Run 2
+   Previously: Start 09 Aug 2027 | Room: Board Room | Teacher: AK
+   Now assigned to AC: Start 03 May 2027 | Room: Horizon
+
+7. Problem Solving using Pattern Recognition (PRS-03) - Run 2
+   Previously: Start 28 Feb 2028 | Room: Horizon | Teacher: AK
+   Now assigned to SP: Start 14 Feb 2028 | Room: Visionary
+
+8. Explainable and Responsible Artificial Intelligence (AAS-01) - Run 1
+   Previously: Start 19 Apr 2027 | Room: Blue Ocean | Teacher: AK
+   Now assigned to CK: Start 11 Oct 2027 | Room: Integration
+
+9. Problem Solving using Pattern Recognition (PRS-03) - Run 1
+   Previously: Start 12 Jun 2028 | Room: Catalyst | Teacher: AK
+   Now assigned to SP: Start 15 Mar 2027 | Room: Innovation
+
+================================================================================
+COURSES NEWLY ASSIGNED TO AK
+================================================================================
+
+1. Reasoning Systems (IRS-01) - Run 1
+   New Schedule: Start 04 Jan 2027 | End 08 Jan 2027 | Room: Integration
+   Previously: Teacher DC | Start 05 Jun 2028 | Room: Horizon
+
+2. Advanced Machine Learning for Financial Services (IFR-01) - Run 2
+   New Schedule: Start 08 Feb 2027 | End 11 Feb 2027 | Room: Integration
+   Previously: Teacher DC | Start 13 Sep 2027 | Room: Frontier
+
+3. Human-Robot System Engineering (IROb-03) - Run 1
+   New Schedule: Start 26 Apr 2027 | End 29 Apr 2027 | Room: Catalyst
+   Previously: Teacher SW | Start 22 May 2028 | Room: Frontier
+
+4. Advanced Machine Learning for Financial Services (IFR-01) - Run 1
+   New Schedule: Start 16 Aug 2027 | End 19 Aug 2027 | Room: Horizon
+   Previously: Teacher CK | Start 23 Aug 2027 | Room: Board Room
+
+5. Reasoning Systems (IRS-01) - Run 2
+   New Schedule: Start 06 Dec 2027 | End 10 Dec 2027 | Room: Board Room
+   Previously: Teacher KL | Start 04 Jan 2027 | Room: Blue Ocean
+
+6. Human-Robot System Engineering (IROb-03) - Run 2
+   New Schedule: Start 27 Mar 2028 | End 30 Mar 2028 | Room: Frontier
+   Previously: Teacher KL | Start 01 Feb 2027 | Room: Blue Ocean
+
+================================================================================
+AK'S CURRENT FULL SCHEDULE (as of latest timetable)
+================================================================================
+
+Sr | Course Name                                        | Code     | Start       | End         | Days | Room        | Run
+---|----------------------------------------------------|---------:|-------------|-------------|------|-------------|------
+ 1 | Reasoning Systems                                  | IRS-01   | 04 Jan 2027 | 08 Jan 2027 |  5   | Integration | Run 1
+ 5 | Advanced Machine Learning for Financial Services   | IFR-01   | 08 Feb 2027 | 11 Feb 2027 |  4   | Integration | Run 2
+16 | Human-Robot System Engineering                     | IROb-03  | 26 Apr 2027 | 29 Apr 2027 |  4   | Catalyst    | Run 1
+26 | Advanced Machine Learning for Financial Services   | IFR-01   | 16 Aug 2027 | 19 Aug 2027 |  4   | Horizon     | Run 1
+34 | Reasoning Systems                                  | IRS-01   | 06 Dec 2027 | 10 Dec 2027 |  5   | Board Room  | Run 2
+42 | Human-Robot System Engineering                     | IROb-03  | 27 Mar 2028 | 30 Mar 2028 |  4   | Frontier    | Run 2
+
+================================================================================
+End of Report
+================================================================================
